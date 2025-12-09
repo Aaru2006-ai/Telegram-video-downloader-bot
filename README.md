@@ -175,8 +175,7 @@ telegram-video-downloader-bot/
 - AWS - ₹50+/month
 - DigitalOcean - ₹150+/month
 
-### Option 3: Vercel (Serverless)
-See [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md)
+### Option 3 railway deployment 
 
 ## 📊 Database
 
