@@ -293,8 +293,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📮 Support
 
 Having issues? Contact me:
-- 📧 Email: your@email.com
-- 💬 Telegram: @YourUsername
+- 📧 Email: aayuroy12260504gmail.com
+- 💬 Telegram: @Nxt_og
 - 🐛 GitHub Issues: [Create Issue](https://github.com/YourUsername/telegram-video-downloader-bot/issues)
 
 ## 📚 Documentation
